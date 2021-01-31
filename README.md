@@ -1,2 +1,2 @@
 # leaflet-challenge
-![Test Image 1](leaflet.png)
+![Test Image 1](leaflet.PNG)
