@@ -1,13 +1,16 @@
-/* body {
-  padding: 0;
-  margin: 0;
+
+legend {
+  line-height: 18px;
+  color: #000;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: .9;
 }
 
-#mapid,
-body,
-html {
-  height: 100%;
-} */
 
 html,
 body,
@@ -15,4 +18,8 @@ body,
   height: 100%;
   padding: 0;
   margin: 0;
+  
 }
+
+
+
